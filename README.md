@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Yousef Ibrahim</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<h3 align="center">A passionate Software Engineer.</h3>
 
 - 🌱 I’m currently learning **.NET Framework**
 
