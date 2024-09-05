@@ -4,13 +4,6 @@
   </a>
 </div>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=iyousefibrahim.iyousefibrahim&"  />
-</div>
-
-###
 
 <h1 align="center">Hello, I'm Yousef Ibrahim</h1>
 
