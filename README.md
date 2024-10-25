@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">- 📚 I'm currently learning .NET Framework</p>
+<p align="left">- 📚 I'm currently learning .NET Core</p>
 
 ###
 
