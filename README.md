@@ -1,4 +1,4 @@
-<p align="left">Hi there! 👋<br>I'm Youssef, a passionate Full-Stack Web Developer with a focus on:<br><br>Frontend: Angular<br>Backend: Node.js<br><br>What I Do ?<br>- I specialize in building impactful web applications with seamless user experiences.<br><br>About Me :<br>- 🎓 Final-year Information Systems student<br>- 🌍 Aspiring to grow my career in Germany<br>- 📚 Continuous learner passionate about innovation in web development</p>
+<h5 align="left">Hi there! 👋<br>I'm Youssef, a passionate Full-Stack Web Developer with a focus on<br><br>Frontend: Angular<br>Backend: Node.js<br><br>What I Do ?<br>- I specialize in building impactful web applications with seamless user experiences.<br><br>About Me :<br>- 🎓 Final-year Information Systems student<br>- 🌍 Aspiring to grow my career in Germany<br>- 📚 Continuous learner passionate about innovation in web development</h5>
 
 ###
 
@@ -7,10 +7,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
