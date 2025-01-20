@@ -1,12 +1,12 @@
-<h4 align="center">Hello, I'm Yousef, a Full-Stack Web Developer.</h4>
+<h3 align="center">Hello, I'm Yousef, a Full-Stack Web Developer.</h3>
 
 ###
 
-<p align="left">I specialize in creating dynamic and efficient web applications using Angular for the frontend and Node.js for the backend.</p>
+<h4 align="left">I specialize in creating dynamic and efficient web applications using Angular for the frontend and Node.js for the backend.</h4>
 
 ###
 
-<h4 align="left">About Me:<br>-🎓 Final-year Information Systems student.<br>-🌍 Actively seeking opportunities to grow my career in Germany's dynamic tech industry.<br>-📚 Passionate about continuous learning and leveraging the latest innovations in web development.</h4>
+<h3 align="left">About Me:<br>-🎓 Final-year Information Systems student.<br>-🌍 Actively seeking opportunities to grow my career in Germany's dynamic tech industry.<br>-📚 Passionate about continuous learning and leveraging the latest innovations in web development.</h3>
 
 ###
 
