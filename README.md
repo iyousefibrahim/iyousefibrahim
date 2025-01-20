@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">About Me:<br>-🎓 Final-year Information Systems student.<br>-🌍 Actively seeking opportunities to grow my career in Germany's dynamic tech industry.<br>-📚 Passionate about continuous learning and leveraging the latest innovations in web development.</h3>
+<h4 align="left">About Me:<br>-🎓 Final-year Information Systems student.<br>-🌍 Actively seeking opportunities to grow my career in Germany's dynamic tech industry.<br>-📚 Passionate about continuous learning and leveraging the latest innovations in web development.</h4>
 
 ###
 
