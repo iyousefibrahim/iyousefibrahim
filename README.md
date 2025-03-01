@@ -83,15 +83,7 @@
 
 ###
 
-###
-##
-<div align="center">
-  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGYyNTF5cmM3dHlkZGU5enltdTdweXcza3hwdHpsZWp6ZGVnYjhqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JPfZ7lXNECPkXaAkF2/giphy.gif"  />
-</div>
-
-###
-
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iyousefibrahim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=apprentice&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
