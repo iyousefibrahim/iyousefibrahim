@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">I'm a Full-Stack Developer specializing in Angular & Node.js, focused on performance, clean code, and reusability. I build scalable, maintainable applications with optimized front-end architecture and efficient backend solutions.</h4>
+<p align="left">I'm a Full-Stack Developer specializing in Angular & Node.js, focused on performance, clean code, and reusability. I build scalable, maintainable applications with optimized front-end architecture and efficient backend solutions.</p>
 
 
 ## 🚀 About Me
