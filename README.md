@@ -1,8 +1,8 @@
 <h2 align="left">👋🏻 Hello, I'm Yousef</h2>
 
 ###
+<p align="left">I'm a Full-Stack Developer specializing in Angular & .NET, focused on performance, clean code, and reusability. I build scalable, maintainable applications with optimized front-end architecture and efficient backend solutions using ASP.NET Core and Web API.</p>
 
-<p align="left">I'm a Full-Stack Developer specializing in Angular & Node.js, focused on performance, clean code, and reusability. I build scalable, maintainable applications with optimized front-end architecture and efficient backend solutions.</p>
 
 
 ## 🚀 About Me
@@ -60,6 +60,8 @@
 ###
 
 <div align="left">
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="40" alt="dot-net logo"  />
+  <img width="12" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="40" alt="express logo"  />
@@ -67,8 +69,6 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="40" alt="postman logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white&style=for-the-badge" height="40" alt="socketio logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="40" alt="dot-net logo"  />
 </div>
 
 <h3 align="left">Databases</h3>
