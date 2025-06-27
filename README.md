@@ -2,19 +2,18 @@
 
 ###
 <p align="left">
-I'm a Full-Stack Developer specializing in Angular & Node.js, focused on performance, clean code, and reusability. I build scalable, maintainable applications with optimized front-end architecture and efficient backend solutions.
+I'm a Front-End Developer specializing in Angular. I focus on building high-performance, scalable, and maintainable user interfaces using clean code, reusable components, and modern front-end architecture.
 </p>
 
 
-
 ## 🚀 About Me
-
 <p align="left">
-  • 🎓 Final-year Information Systems student with hands-on experience in building web applications.<br>
+  • 🎓 Information Systems graduate with hands-on experience in building web applications.<br>
   • 🚀 Passionate about developing high-quality, maintainable code.<br>
   • 🌍 Looking for opportunities to contribute to Germany’s tech industry.<br>
   • 📚 Always eager to learn and stay updated with the latest trends in web development.<br>
 </p>
+
 
 ## 🌐 Connect with me
 
@@ -69,8 +68,6 @@ I'm a Full-Stack Developer specializing in Angular & Node.js, focused on perform
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="40" alt="postman logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white&style=for-the-badge" height="40" alt="socketio logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="40" alt="dot-net logo"  />
 </div>
 
 <h3 align="left">Databases</h3>
