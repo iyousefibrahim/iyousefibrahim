@@ -99,14 +99,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyousefibrahim&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iyousefibrahim&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
-</div>
-
 ---
 
 
   
-  💭 *"The biggest risk is not taking any risk... In a world that's changing really quickly, the only strategy that is guaranteed to fail is not taking risks."* - Mark Zuckerberg
+*"The biggest risk is not taking any risk...*  
+*In a world that's changing really quickly,*  
+*the only strategy that is guaranteed to fail is not taking risks."*  
+— **Mark Zuckerberg**
   
 </div>
