@@ -8,13 +8,19 @@
 
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/iyousefibrahim" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:yousefibrahim9@outlook.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="Email logo" />
-  </a>
+<br>
+<a href="https://iyousefibrahim.vercel.app/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f310.png" width="40" height="40" alt="Portfolio Website" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/iyousefibrahim" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="45" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:yousefibrahim9@outlook.com">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="45" height="45" alt="Email" />
+</a>
+<br><br>
 </div>
 
 
@@ -25,7 +31,7 @@
 
 ---
 
-## 🚀 About Me
+## WHOAMI
 
 - 🎓 **Information Systems Graduate** – I believe the web should be fast, interactive, and fun.  
 - 💻 **Front-End Builder** – I create experiences that feel smooth, intuitive, and engaging, turning complex ideas into clean interfaces.  
@@ -53,30 +59,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js logo" />
 </div>
 
-### 🎨 Styling & UI
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="Sass logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="Tailwind CSS logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma logo" />
-</div>
-
 ### 🔧 Backend
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="Supabase logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" />
 </div>
 
 ### 🛠️ Tools & Version Control
@@ -89,26 +78,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman logo" />
 </div>
-
----
-
-## 🎯 Current Focus
-
-- 🔥 **Performance Optimization** – Making apps faster and smoother  
-- 🏗️ **Scalable Architecture** – Exploring micro-frontends and modular design  
-- 🚀 **Modern React & Angular Patterns** – Mastering hooks, context, and standalone components  
-- 📱 **Building Real Apps** – Learning Expo and experimenting with mobile/web projects  
-- 🛠️ **Trying New Things** – Constantly testing new tools, libraries, and techniques  
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center" style="display: flex; align-items: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=iyousefibrahim&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="165" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iyousefibrahim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="165" alt="languages graph"  />
-</div>
-
 
 ---
 
